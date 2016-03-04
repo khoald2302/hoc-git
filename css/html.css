@@ -1,0 +1,15 @@
+header{
+	width: 960px;
+	height: auto;
+	background-color: #f00;
+	padding: 10px;
+	color: #ffffff;
+
+}
+
+img.wrap{
+	height: 85px;
+	width:85px;
+	float: left;
+	margin: 0px 30px 0 162px;
+}
